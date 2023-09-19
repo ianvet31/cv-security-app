@@ -1,6 +1,3 @@
-#Modified by smartbuilds.io
-#Date: 27.09.20
-#Desc: This scrtipt script..
 import os
 import argparse
 import sys
